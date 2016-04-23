@@ -6,4 +6,8 @@ custom/*
 
 docs/index.md
 
-.settings/
+bower_components/
+
+coverage/*
+
+nbproject/*
